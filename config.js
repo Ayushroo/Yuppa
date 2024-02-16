@@ -1,10 +1,10 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
+  ownerID: ["742239047547748433", ""],
+  botInvite: "https://discord.com/api/oauth2/authorize?client_id=1097829351992610938&permissions=8&scope=bot",
+  supportServer: "https://discord.com/invite/MdFstajBJZ",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: '/help | Yuppa',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -13,7 +13,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://discord.com/invite/MdFstajBJZ",
   },
 
   voteManager: {
