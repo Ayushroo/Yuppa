@@ -56,10 +56,10 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://tenor.com/view/nice-hamatora-anime-anime-boy-music-gif-14625260')
+       .setImage('https://images-ext-1.discordapp.net/external/2-BN43GvpdYoaTJI4Y-66jDh27C7RsvvZpLm_9-LY-s/https/media.tenor.com/X6lfHgFqkTIAAAPo/nice-hamatora.mp4')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
-        .setURL('')
+        .setURL('youtube')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
