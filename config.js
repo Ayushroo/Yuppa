@@ -3,7 +3,7 @@ module.exports = {
   ownerID: ["742239047547748433", ""],
   botInvite: "https://discord.com/api/oauth2/authorize?client_id=1097829351992610938&permissions=8&scope=bot",
   supportServer: "https://discord.com/invite/MdFstajBJZ",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://ayu01:EL56s1LAy4A6iNxJ@ayu.cg5g4ks.mongodb.net/?retryWrites=true&w=majority",
   status: '/help | Yuppa',
   commandsDir: './commands',
   language: "en",
